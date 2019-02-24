@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+body
+{
+    background-color: #f1eaea;
+}
+div{
+    width: 1024px;
+    height: 220px;
+    border: 1px solid#999999;
+    background-color: aquamarine;
+    color: #848582;
+    border-radius: 15px 0px 15px 0px ;
+    margin: 10px;
+    padding: 15px;
+    
+
+}
+
+
+
+img
+{
+    width: 80px;
+    height: 80px;
+}
+ul{
+    list-style: none;
+    font-size: 18px;
+    margin-top: 0;
+}
+ul li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 30px;
+
+}
+ul li a{
+    display: block;
+    height: 30px;
+    width: 200px;
+    background-color: darkslategray;
+    border-left: 10px solid #222;
+    border-right: 10px solid #222;
+    padding-left: 10px;
+    color: coral;
+    
+}
+ul li a:hover{
+    margin-left: 10px;
+    box-shadow: 10px 10px 20px #000000;
+    -moz-transform: rotate(-5deg);
+    transform: rotate(5deg);
+}
+td{
+    vertical-align: top;
+}
+body{
+    background: pink;
+}
+
+
+/* CLASES EN CSS*/
+
+.nombredelacable{
+
+}
+.encabezado{
+    height: 100px;
+    background-color: dimgray;
+    border-radius: 0px;
+    width: 1204px;
+    background-image: url("/Img/banner.jpg");
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.piePagina{
+    height: 150px;
+    background-color: dimgray;
+    border-radius: 0px;
+    width: 1204px;
+    
+}
+
+.piePagina p{
+    color: white;
+}
+
+.piePagina h2{
+    color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
